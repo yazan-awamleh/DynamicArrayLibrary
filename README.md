@@ -5,7 +5,7 @@ It is built from scratch to understand how dynamic memory allocation works inter
 similar to `std::vector`, but in a simplified and educational way.
 
 ## Features
-- Template-based design (supports any data type)
+- Template-based design (support any data type)
 - Dynamic memory allocation using pointers
 - Copy constructor with deep copy
 - Copy assignment disabled
