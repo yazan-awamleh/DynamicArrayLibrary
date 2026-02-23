@@ -14,14 +14,14 @@ similar to `std::vector`, but in a simplified and educational way.
 - Search and access with bounds checking
 
 ## Implemented Operations
-- Set and get elements
-- Insert at beginning, end, before, and after index
-- Delete first, last, by index, or by value
-- Delete all occurrences of a value
-- Resize array
-- Reverse array
-- Clear array
-- Check if array is empty
+- Set and get elements.
+- Insert at beginning, end, before, and after index.
+- Delete first, last, by index, or by value.
+- Delete all occurrences of a value.
+- Resize array.
+- Reverse array.
+- Clear array.
+- Check if array is empty.
 
 ## Example
 ```cpp
