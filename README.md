@@ -1,8 +1,8 @@
 # Dynamic Array (C++)
 
-This project is a simple implementation of a dynamic array in C++ using templates.
+This project is a simple implementation of a dynamic array in C++ using templates
 It is built from scratch to understand how dynamic memory allocation works internally,
-similar to `std::vector`, but in a simplified and educational way.
+similar to `std::vector`, but in a simplified and educational way
 
 ## Features
 - Template-based design (support any data type)
